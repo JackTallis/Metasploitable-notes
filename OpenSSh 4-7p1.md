@@ -1,9 +1,13 @@
 # SSH_LOGIN
 
 Use msfconsole
+
 use auxiliary/scanner/ssh/ssh_login
+
 set rhosts end user IP
+
 set verbose to true
+
 set STOP_ON_SUCCESS true
 
 Make a usernames folder 
